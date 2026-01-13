@@ -1,0 +1,194 @@
+{
+  "en": {
+    "header": {
+      "promo": "Summer collection now on sale!",
+      "phone": "(+33) 800 456 789",
+      "login": "Login",
+      "register": "Register"
+    },
+    "nav": {
+      "home": "Home",
+      "shop": "Shop",
+      "about": "About",
+      "contact": "Contact",
+      "cart": "Cart",
+      "search": "Search"
+    },
+    "hero": {
+      "title": "New Collection",
+      "subtitle": "Discover the latest stylish shoes",
+      "button": "Shop Now"
+    },
+    "products": {
+      "title": "Our Products",
+      "featuredTitle": "Featured Products",
+      "latestTitle": "Latest Products",
+      "price": "Price",
+      "description": "Description",
+      "addToCart": "Add to Cart",
+      "quickView": "Quick View",
+      "outOfStock": "Out of Stock",
+      "runningShoes": "Running Shoes For Men",
+      "bestSelling": "Best Selling"
+    },
+    "cart": {
+      "title": "Shopping Cart",
+      "empty": "Your cart is empty",
+      "subtotal": "Subtotal",
+      "total": "Total",
+      "checkout": "Checkout",
+      "continueShopping": "Continue Shopping",
+      "viewCart": "View Cart",
+      "quantity": "Qty"
+    },
+    "footer": {
+      "about": "About Us",
+      "contact": "Contact",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "followUs": "Follow Us",
+      "company": "Company",
+      "getInTouch": "Get In Touch",
+      "copyright": "© Copyright Stylish 2023",
+      "address": "Stylish Online Store 123 Main Street, Toulouse - France",
+      "email": "contact@yourwebsite.com"
+    },
+    "modal": {
+      "login": "Login",
+      "username": "Username or Email Address *",
+      "password": "Password",
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot your password?",
+      "loginBtn": "Login",
+      "registerBtn": "Register"
+    }
+  },
+  "ru": {
+    "header": {
+      "promo": "Летняя коллекция теперь на распродаже!",
+      "phone": "(+33) 800 456 789",
+      "login": "Вход",
+      "register": "Регистрация"
+    },
+    "nav": {
+      "home": "Главная",
+      "shop": "Магазин",
+      "about": "О нас",
+      "contact": "Контакты",
+      "cart": "Корзина",
+      "search": "Поиск"
+    },
+    "hero": {
+      "title": "Новая коллекция",
+      "subtitle": "Откройте для себя последние стильные туфли",
+      "button": "Купить сейчас"
+    },
+    "products": {
+      "title": "Наши продукты",
+      "featuredTitle": "Избранные продукты",
+      "latestTitle": "Последние продукты",
+      "price": "Цена",
+      "description": "Описание",
+      "addToCart": "Добавить в корзину",
+      "quickView": "Быстрый просмотр",
+      "outOfStock": "Нет в наличии",
+      "runningShoes": "Беговые кроссовки для мужчин",
+      "bestSelling": "Бестселлер"
+    },
+    "cart": {
+      "title": "Корзина покупок",
+      "empty": "Ваша корзина пуста",
+      "subtotal": "Сумма",
+      "total": "Итого",
+      "checkout": "Оформить заказ",
+      "continueShopping": "Продолжить покупки",
+      "viewCart": "Просмотр корзины",
+      "quantity": "Кол-во"
+    },
+    "footer": {
+      "about": "О нас",
+      "contact": "Контакты",
+      "privacy": "Политика конфиденциальности",
+      "terms": "Условия использования",
+      "followUs": "Следите за нами",
+      "company": "Компания",
+      "getInTouch": "Связатись с нами",
+      "copyright": "© Авторское право Stylish 2023",
+      "address": "Stylish Online Store 123 Main Street, Toulouse - France",
+      "email": "contact@yourwebsite.com"
+    },
+    "modal": {
+      "login": "Вход",
+      "username": "Имя пользователя или адрес электронной почты *",
+      "password": "Пароль",
+      "rememberMe": "Запомнить меня",
+      "forgotPassword": "Забыли пароль?",
+      "loginBtn": "Вход",
+      "registerBtn": "Регистрация"
+    }
+  },
+  "uz": {
+    "header": {
+      "promo": "Yozgi kolleksiya hozir chegirmada!",
+      "phone": "(+33) 800 456 789",
+      "login": "Kirish",
+      "register": "Ro'yxatdan o'tish"
+    },
+    "nav": {
+      "home": "Asosiy",
+      "shop": "Do'kon",
+      "about": "Haqimizda",
+      "contact": "Aloqa",
+      "cart": "Savat",
+      "search": "Izlash"
+    },
+    "hero": {
+      "title": "Yangi Kolleksiya",
+      "subtitle": "Eng yangi stilga ega poyabzallarni kashf eting",
+      "button": "Hozir Xarid Qiling"
+    },
+    "products": {
+      "title": "Bizning Mahsulotlar",
+      "featuredTitle": "Ajralgan Mahsulotlar",
+      "latestTitle": "Oxirgi Mahsulotlar",
+      "price": "Narxi",
+      "description": "Tavsifi",
+      "addToCart": "Savatga Qo'shish",
+      "quickView": "Tez Ko'rish",
+      "outOfStock": "Sotuvda Yo'q",
+      "runningShoes": "Erkaklar uchun yuguruv oyoq kiyimlari",
+      "bestSelling": "Eng ko'p sotilgan"
+    },
+    "cart": {
+      "title": "Xarid Savati",
+      "empty": "Sizning savatingiz bo'sh",
+      "subtotal": "Jami",
+      "total": "Umumiy",
+      "checkout": "Buyurtmani Tasdiqlash",
+      "continueShopping": "Xaridni Davom Ettiring",
+      "viewCart": "Savatni Ko'rish",
+      "quantity": "Miqdor"
+    },
+    "footer": {
+      "about": "Haqimizda",
+      "contact": "Aloqa",
+      "privacy": "Maxfiylik Siyosati",
+      "terms": "Foydalanish Shartlari",
+      "followUs": "Bizni Kuzatib Boring",
+      "company": "Kompaniya",
+      "getInTouch": "Biz bilan bog'laning",
+      "copyright": "© Stylish 2023 nusxa huquqi",
+      "address": "Stylish Online Store 123 Main Street, Toulouse - France",
+      "email": "contact@yourwebsite.com"
+    },
+    "modal": {
+      "login": "Kirish",
+      "username": "Foydalanuvchi nomi yoki Email manzili *",
+      "password": "Parol",
+      "rememberMe": "Meni eslab qol",
+      "forgotPassword": "Parolni unutdingizmi?",
+      "loginBtn": "Kirish",
+      "registerBtn": "Ro'yxatdan o'tish"
+    }
+  }
+}
