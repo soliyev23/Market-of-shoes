@@ -10,7 +10,7 @@ app = FastAPI(title="Stylish Shoes Store API", version="1.0.0")
 # Configure CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Change this to your frontend URL in production
+    allow_origins=["*"],   # productionda domain qo‘yiladi
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
